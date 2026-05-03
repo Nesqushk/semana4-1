@@ -43,7 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Player.cs" />
+    <Compile Include="Option.cs" />
+    <Compile Include="CaveScene.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="TempleScene.cs" />
+    <Compile Include="Situation.cs" />
+    <Compile Include="ForestScene.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
